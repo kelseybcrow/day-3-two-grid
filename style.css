@@ -1,0 +1,23 @@
+* {
+    outline: mediumspringgreen;
+}
+
+header {
+    min-height: 25vh;
+}
+
+.bg-white {
+    background-color: rgb(165, 164, 164);
+    color: rgb(50, 49, 49);
+}
+
+.bg-blue {
+    background: #3079AB;
+    color: white;
+  }
+
+  .bg-gray {
+      background-color: rgb(169, 168, 168);
+      color: black;
+  }
+
